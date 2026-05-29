@@ -1,9 +1,10 @@
 {
-    "files.associations": {
-        "*.yaml": "home-assistant"
-    },
-    "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.diagnosticMode": "workspace",
-    "python.linting.mypyEnabled": true,
-    "mypy-type-checker.enabled": true
+  "files.associations": {
+    "*.yaml": "home-assistant"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticMode": "workspace",
+  "python.linting.mypyEnabled": true,
+  "mypy-type-checker.enabled": true,
+  "snyk.advanced.autoSelectOrganization": true
 }
